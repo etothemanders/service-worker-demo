@@ -1,0 +1,17 @@
+{
+  "firebase": "weather-pwa-sample",
+  "public": ".",
+  "ignore": [
+    "**/node_modules/**",
+    "**/resources/*",
+    "**/.*",
+    "firebase.json",    
+    "generate-sw.js",
+    "gulpfile.js",
+    "make-zip.sh",
+    "package.json",
+    "pwa-weather.zip",
+    "readme.md",
+    "server.js"
+  ]
+}
